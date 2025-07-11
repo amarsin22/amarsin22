@@ -11,9 +11,9 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on building **HTML, CSS, JavaScript Projects**
-- 🌱 I’m currently learning **React.js and Node.js**
-- 💬 Ask me about **Web Development, PHP, MySQL, JavaScript**
-- 🧰 Exploring tools like **Bootstrap, jQuery, and Git**
+- 🌱 I’m currently learning **React.js and Node.js,**
+- 💬 Ask me about **Web Development, MongoDB, MySQL, JavaScript, Java**
+- 🧰 Exploring tools like **Git**
 - 📫 How to reach me: **amarsingh221122@gmail.com**
 - 🌐 Portfolio: [amarsin22.github.io/PORTFOLIO](https://amarsin22.github.io/PORTFOLIO/)
 
