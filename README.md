@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on building **HTML, CSS, JavaScript Projects**
 - 🌱 I’m currently learning **React.js and Node.js**
-- 💬 Ask me about **Web Development, MongoDB, MySQL, JavaScript**
+- 💬 Ask me about **Web Development, MongoDB, MySQL, JavaScript,Java**
 - 🧰 Exploring tools like **Bootstrap, jQuery, and Git**
 - 📫 How to reach me: **amarsmy2201@gmail.com**
 - 🌐 Portfolio: [amarsin22.github.io/PORTFOLIO](https://amarsin22.github.io/PORTFOLIO/)
