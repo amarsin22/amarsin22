@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://amarsin22.github.io/PORTFOLIO/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:amarsingh221122@gmail.com"><img src="https://img.shields.io/badge/Email-amarsingh221122@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:amarsmy2201@gmail.com"><img src="https://img.shields.io/badge/Email-amarsmy2201@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
