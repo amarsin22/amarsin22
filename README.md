@@ -17,7 +17,7 @@
 - 📫 How to reach me 
 - [https://www.linkedin.com/in/amar-singh22]
 
-  https://www.linkedin.com/in/amar-singh22)**
+  
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Iq4T_pINCH8V7b9ZptXxnQuCdmkcRM3m/view?usp=drivesdk](https://drive.google.com/file/d/1Iq4T_pINCH8V7b9ZptXxnQuCdmkcRM3m/view?usp=drivesdk)
 
