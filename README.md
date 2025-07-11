@@ -1,56 +1,35 @@
+
 <h1 align="center">Hi 👋, I'm Amar Singh</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
-<p align="center">
-  <a href="https://amarsin22.github.io/PORTFOLIO/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:amarsmy2201@gmail.com"><img src="https://img.shields.io/badge/Email-amarsmy2201@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-</p>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/62b10d75d08a336bf62b18318e0202b20ed207169d10e4e437981a1cd91f70b0/68747470733a2f2f7777772e73696d6f6e746563687761792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f6465762d6769662e676966">
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarsin22&label=Profile%20views&color=0e75b6&style=flat" alt="amarsin22" /> </p>
 
-### 👨‍💻 About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarsin22" alt="amarsin22" /></a> </p>
 
-- 🔭 I’m currently working on building **HTML, CSS, JavaScript Projects**
-- 🌱 I’m currently learning **React.js and Node.js**
-- 💬 Ask me about **Web Development, MongoDB, MySQL, JavaScript, Java**
-- 🧰 Exploring tools like **Bootstrap, jQuery, and Git**
-- 📫 How to reach me: **amarsmy2201@gmail.com**
-- 🌐 Portfolio: [amarsin22.github.io/PORTFOLIO](https://amarsin22.github.io/PORTFOLIO/)
+- 🌱 I’m currently learning **Node.js, Express.js,React.js**
 
----
+- 👨‍💻 All of my projects are available at [https://amarsin22.github.io/PORTFOLIO/](https://amarsin22.github.io/PORTFOLIO/)
 
-### 🛠️ Languages and Tools
+- 💬 Ask me about **HTML, CSS, JavaScript, MySQL, MongoDB**
 
+- 📫 How to reach me **https://www.linkedin.com/in/amar-singh22**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Iq4T_pINCH8V7b9ZptXxnQuCdmkcRM3m/view?usp=drivesdk](https://drive.google.com/file/d/1Iq4T_pINCH8V7b9ZptXxnQuCdmkcRM3m/view?usp=drivesdk)
+
+- ⚡ Fun fact **I Love debugging more than Coding.**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-181717?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" />
+<a href="https://linkedin.com/in/amar singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amar singh" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-### 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarsin22&show_icons=true&locale=en&layout=compact" alt="amarsin22" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarsin22&show_icons=true&theme=radical" alt="Amar's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarsin22&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarsin22&show_icons=true&locale=en" alt="amarsin22" /></p>
 
----
-
-### 🔗 Let's Connect
-
-- 📧 Email: [amarsmy2201@gmail.com](mailto:amarsmy2201@gmail.com)
-- 🌐 Portfolio: [amarsin22.github.io/PORTFOLIO](https://amarsin22.github.io/PORTFOLIO/)
-- 📍 Location: India
-
----
-
-*Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarsin22&" alt="amarsin22" /></p>
