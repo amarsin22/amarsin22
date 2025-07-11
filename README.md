@@ -47,7 +47,8 @@
 
 ### 🔗 Let's Connect
 
-- 📧 Email: [amarsmy2201@gmail.com@gmail.com](mailto:amarsingh221122@gmail.com)
+- 📧 Email: [amarsmy2201@gmail.com]
+- (mailto:amarsmy2201@gmail.com)
 - 🌐 Portfolio: [amarsin22.github.io/PORTFOLIO](https://amarsin22.github.io/PORTFOLIO/)
 - 📍 Location: India
 
