@@ -14,8 +14,8 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, MySQL, MongoDB**
 
-- 📫 How to reach me 
-- [https://www.linkedin.com/in/amar-singh22]
+- 📫 How to reach me
+   [https://www.linkedin.com/in/amar-singh22]
 
   
 
