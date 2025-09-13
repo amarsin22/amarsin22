@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express.js,React.js**
 
-- 👨‍💻 All of my projects are available at (https://amarsin22.github.io/New-Portfolio/). 
+- 👨‍💻 All of my projects are available at (https://amarsin22.github.io/My-Portfolio/). 
 
 - 💬 Ask me about **HTML, CSS, JavaScript, MySQL, MongoDB**
 
