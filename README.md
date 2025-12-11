@@ -1,41 +1,96 @@
+\documentclass[a4paper,10pt]{article}
 
-<h1 align="center">Hi 👋, I'm Amar Singh</h1>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast;" alt="Typing SVG" />
-</div>
-<h3 align="center">A passionate Software developer from India</h3>
+% ---------------- Packages ----------------
+\usepackage{geometry}
+\geometry{margin=1.4cm}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{parskip}
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/62b10d75d08a336bf62b18318e0202b20ed207169d10e4e437981a1cd91f70b0/68747470733a2f2f7777772e73696d6f6e746563687761792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f6465762d6769662e676966">
+% ---------- Section Title + Underline ----------
+\titleformat{\section}
+  {\large\bfseries}
+  {}
+  {0pt}
+  {}
+  [\titlerule]   % <-- UNDERLINE ADDED HERE
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amarsin22&label=Profile%20views&color=0e75b6&style=flat" alt="amarsin22" /> </p>
+% -------------- Bullet Style --------------
+\setlist[itemize]{leftmargin=1.2em, itemsep=2pt}
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarsin22" alt="amarsin22" /></a> </p>
+\begin{document}
 
-- 🌱 I’m currently learning **Node.js, Express.js,React.js**
+% ---------------- HEADER ----------------
+\begin{center}
+    {\Huge \textbf{Amar Singh}}\\[4pt]
+    Bengaluru, India • +91-9889930940 • 
+    \href{mailto:amarsmy2201@gmail.com}{amarsmy2201@gmail.com} \\
+    GitHub: \href{https://github.com/amarsin22}{github.com/amarsin22} • LinkedIn: \href{http://www.linkedin.com/in/amar-singh22}• Portfolio: \href{https://new-portfolio-chi-tawny.vercel.app/}
+\end{center}
 
-- 👨‍💻 All of my projects are available at (https://amarsin22.github.io/My-Portfolio/). 
+\vspace{10pt}
 
-- 💬 Ask me about **HTML, CSS, JavaScript, MySQL, MongoDB**
+% ---------------- SUMMARY ----------------
+\section*{Summary}
+Full Stack Developer skilled in the MERN stack, TypeScript, REST APIs, and scalable backend systems. Experienced in building production-ready applications, authentication workflows, modular UI components, and clean code architecture. Strong understanding of DSA and deployment pipelines using Vercel and Render.
 
-- 📫 How to reach me
-   https://www.linkedin.com/in/amar-singh22
+% ---------------- SKILLS ----------------
+\section*{Skills}
+\textbf{Frontend:} React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Redux/Context API, HTML, CSS \\
+\textbf{Backend:} Node.js, Express.js, REST APIs, JWT Auth, Middleware, MVC Architecture \\
+\textbf{Databases:} MongoDB, MySQL \\
+\textbf{Programming:} JavaScript, TypeScript, Python, Java \\
+\textbf{System Skills:} API Design, Caching, Validation, Microservices Basics \\
+\textbf{Tools:} Git, Docker, Postman, CI/CD, Vercel, Render
 
-  
+% ---------------- EXPERIENCE ----------------
+\section*{Experience}
+\textbf{Full Stack Developer Intern — SGTech Technology Pvt Ltd}  
+\textit{Sep 2024 -- Oct 2024}
+\begin{itemize}
+    \item Built responsive UI components in React and Tailwind CSS.
+    \item Developed REST APIs and middleware in Node.js \& Express.js.
+    \item Optimized API response time using batching and caching techniques.
+    \item Integrated third-party APIs and deployed full-stack apps on Vercel.
+    \item Participated in debugging, feature implementation, and agile workflows.
+\end{itemize}
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Iq4T_pINCH8V7b9ZptXxnQuCdmkcRM3m/view?usp=drivesdk](https://drive.google.com/file/d/1Iq4T_pINCH8V7b9ZptXxnQuCdmkcRM3m/view?usp=drivesdk)
+% ---------------- PROJECTS ----------------
+\section*{Projects}
+\textbf{Task Management System — MERN Stack}
+\begin{itemize}
+    \item Implemented JWT authentication with bcrypt encryption.
+    \item Created CRUD APIs with validation and structured controllers.
+    \item Built dashboard UI with task filters, search, and status flow.
+\end{itemize}
 
-- ⚡ Fun fact **I Love debugging more than Coding.**
+\textbf{Smart Book Recommendation App — React, TypeScript}
+\begin{itemize}
+    \item Developed reusable UI components and optimized client-side filtering.
+\end{itemize}
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amar-singh22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amar singh" height="30" width="40" /></a>
-</p>
+\textbf{Real-Time Dashboard — React, Node.js}
+\begin{itemize}
+    \item Integrated external APIs and transformed data through backend routing.
+\end{itemize}
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+\textbf{Portfolio Website — HTML, CSS, JavaScript}
+\begin{itemize}
+    \item Designed and deployed a clean responsive personal portfolio.
+\end{itemize}
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarsin22&show_icons=true&locale=en&layout=compact" alt="amarsin22" /></p>
+% ---------------- ACHIEVEMENTS ----------------
+\section*{Achievements}
+\begin{itemize}
+    \item Strong grasp of DSA: arrays, strings, recursion, graphs, hashing.
+    \item Built multiple production-ready full stack applications.
+    \item Familiar with secure API design and backend optimization.
+\end{itemize}
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarsin22&show_icons=true&locale=en" alt="amarsin22" /></p>
+% ---------------- EDUCATION ----------------
+\section*{Education}
+\textbf{B.Tech in Computer Science — CGPA: 7.75} \\
+Shambhunath Institute of Engineering and Technology, Prayagraj
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarsin22&" alt="amarsin22" /></p>
+\end{document}
