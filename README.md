@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 <h1 align="center">Hi 👋, I'm Amar Singh</h1>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Passionate+about+Building+Real+Projects" alt="Typing SVG" />
