@@ -4,6 +4,7 @@
 
 </div>
 
+## 💫 About Me:
 🔭 I’m currently working on full-stack web projects and AI-powered applications using React, Node.js, and REST APIs.  <br><br>👯 I’m looking to collaborate on real-world full-stack or AI-based projects where I can learn and contribute effectively.  <br><br>🤝 I’m looking for help with improving system design, backend scalability, and advanced AI integrations.  <br><br>🌱 I’m currently learning Node.js, Express.js, React.js, and AI integrations using OpenAI/OpenRouter APIs.  <br><br>💬 Ask me about HTML, CSS, JavaScript, React, Node.js, MongoDB, and building AI-powered applications.  <br><br>⚡ Fun fact: I enjoy debugging complex issues more than writing code.<br>
 
 
