@@ -5,7 +5,7 @@
 </div>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/62b10d75d08a336bf62b18318e0202b20ed207169d10e4e437981a1cd91f70b0/68747470733a2f2f7777772e73696d6f6e746563687761792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f6465762d6769662e676966">
+<img align="right" alt="coding" width="400" src="https://tenor.com/search/programmer-gifs">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarsin22&label=Profile%20views&color=0e75b6&style=flat" alt="amarsin22" /> </p>
 
