@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"  />
+  <img height="https://raw.githubusercontent.com/fawad1997/fawad1997/main/me.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm Amar Singh</h1>
 <div align="center">
