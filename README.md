@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://cdn.dribbble.com/userupload/32801711/file/original-921e71ee548ff1d244225e558a901a43.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm Amar Singh</h1>
 <div align="center">
